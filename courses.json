@@ -145,6 +145,28 @@
         "grades": "26-OAM-ECC-G2 Calificaciones.xlsx",
         "quiz": "26-OAM-ECC-G2-Cuestionario de salida-calificaciones.xlsx"
       }
+    },
+    {
+      "display_name": "Pensamiento crítico fortaleciendo competencias en el aula (CFI) - G01",
+      "course_name": "Pensamiento crítico fortaleciendo competencias en el aula (CFI)",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-cfi-pc-fca-g1",
+      "course_id": "3099",
+      "exit_quiz_id": "212938",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "source_files": {
+        "progress": "progress.26-cfi-pc-fca-g1.csv",
+        "grades": "26-CFI-PC-FCA-G1 Calificaciones.ods",
+        "quiz": "26-CFI-PC-FCA-G1-Cuestionario de salida-calificaciones.xlsx"
+      },
+      "files": {
+        "progress": "progress.26-cfi-pc-fca-g1.xlsx",
+        "grades": "26-CFI-PC-FCA-G1 Calificaciones.xlsx",
+        "quiz": "26-CFI-PC-FCA-G1-Cuestionario de salida-calificaciones.xlsx"
+      }
     }
   ]
 }
