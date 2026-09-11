@@ -1,0 +1,150 @@
+{
+  "courses": [
+    {
+      "display_name": "Ética e integridad en el rol docente - G01",
+      "course_name": "Ética e integridad en el rol docente",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "X",
+      "course_id": "2601",
+      "exit_quiz_id": "198231",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.oam-eird-g1-2026.xlsx",
+        "grades": "OAM-EIRD-G1-2026 Calificaciones.xlsx",
+        "quiz": "OAM-EIRD-G1-2026-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Educación tributaria para docentes: Construyendo ciudadanía responsable - SUNAT - G3",
+      "course_name": "Educación tributaria para docentes: Construyendo ciudadanía responsable - SUNAT",
+      "group_name": "G3",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "ETDCCR-SUNAT-G3",
+      "course_id": "3097",
+      "exit_quiz_id": "212905",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.etdccr-sunat-g3.xlsx",
+        "grades": "ETDCCR-SUNAT-G3 Calificaciones.xlsx",
+        "quiz": "ETDCCR-SUNAT-G3-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Cómo educar en diversidad, sin racismo - G01",
+      "course_name": "Cómo educar en diversidad, sin racismo",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-OAM-CEDSR-G1",
+      "course_id": "1513",
+      "exit_quiz_id": "209177",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.26-oam-cedsr-g1.xlsx",
+        "grades": "26-OAM-CEDSR-G1 Calificaciones.xlsx",
+        "quiz": "26-OAM-CEDSR-G1-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Cómo educar en diversidad, sin racismo - G02",
+      "course_name": "Cómo educar en diversidad, sin racismo",
+      "group_name": "G02",
+      "group_order": 2,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-OAM-CEDSR-G2",
+      "course_id": "2575",
+      "exit_quiz_id": "211931",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.26-oam-cedsr-g2.xlsx",
+        "grades": "26-OAM-CEDSR-G2 Calificaciones.xlsx",
+        "quiz": "26-OAM-CEDSR-G2-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Creatividad: fortaleciendo competencias en el aula - G01",
+      "course_name": "Creatividad: fortaleciendo competencias en el aula",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-OAM-CFCAL-G1",
+      "course_id": "2666",
+      "exit_quiz_id": "211104",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.26-oam-cfcal-g1.xlsx",
+        "grades": "26-OAM-CFCAL-G1 Calificaciones.xlsx",
+        "quiz": "26-OAM-CFCAL-G1-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Creatividad: fortaleciendo competencias en el aula - G02",
+      "course_name": "Creatividad: fortaleciendo competencias en el aula",
+      "group_name": "G02",
+      "group_order": 2,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-OAM-CFCAL-G2",
+      "course_id": "2667",
+      "exit_quiz_id": "212724",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "files": {
+        "progress": "progress.26-oam-cfcal-g2.xlsx",
+        "grades": "26-OAM-CFCAL-G2 Calificaciones.xlsx",
+        "quiz": "26-OAM-CFCAL-G2-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Educación en cambio climático - G01",
+      "course_name": "Educación en cambio climático",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-oam-ecc-g1",
+      "course_id": "2668",
+      "exit_quiz_id": "210704",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "source_files": {
+        "progress": "progress.26-oam-ecc-g1.csv",
+        "grades": "26-OAM-ECC-G1 Calificaciones.ods",
+        "quiz": "26-OAM-ECC-G1-Cuestionario de salida-calificaciones.xlsx"
+      },
+      "files": {
+        "progress": "progress.26-oam-ecc-g1.xlsx",
+        "grades": "26-OAM-ECC-G1 Calificaciones.xlsx",
+        "quiz": "26-OAM-ECC-G1-Cuestionario de salida-calificaciones.xlsx"
+      }
+    },
+    {
+      "display_name": "Educación en cambio climático - G02",
+      "course_name": "Educación en cambio climático",
+      "group_name": "G02",
+      "group_order": 2,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "folder_name": "26-oam-ecc-g2",
+      "course_id": "2669",
+      "exit_quiz_id": "212444",
+      "download_folder": "C:\\DifodsDescargas",
+      "quiz_attempt_rule": "best",
+      "source_files": {
+        "progress": "progress.26-oam-ecc-g2.csv",
+        "grades": "26-OAM-ECC-G2 Calificaciones.ods",
+        "quiz": "26-OAM-ECC-G2-Cuestionario de salida-calificaciones.xlsx"
+      },
+      "files": {
+        "progress": "progress.26-oam-ecc-g2.xlsx",
+        "grades": "26-OAM-ECC-G2 Calificaciones.xlsx",
+        "quiz": "26-OAM-ECC-G2-Cuestionario de salida-calificaciones.xlsx"
+      }
+    }
+  ]
+}
