@@ -187,6 +187,16 @@
       "course_id": "2673",
       "exit_quiz_id": "212827",
       "quiz_attempt_rule": "best"
+    },
+    {
+      "display_name": "Involucramiento de los estudiantes en las actividades de aprendizaje para pensar, decidir y construir - G02",
+      "course_name": "Involucramiento de los estudiantes en las actividades de aprendizaje para pensar, decidir y construir",
+      "group_name": "G02",
+      "group_order": 2,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "course_id": "2676",
+      "exit_quiz_id": "212765",
+      "quiz_attempt_rule": "best"
     }
   ]
 }
