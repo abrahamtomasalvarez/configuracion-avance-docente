@@ -167,6 +167,16 @@
         "grades": "26-CFI-PC-FCA-G1 Calificaciones.xlsx",
         "quiz": "26-CFI-PC-FCA-G1-Cuestionario de salida-calificaciones.xlsx"
       }
+    },
+    {
+      "display_name": "Evaluación para el aprendizaje: Formulación de criterios (CFI) - G01",
+      "course_name": "Evaluación para el aprendizaje: Formulación de criterios (CFI)",
+      "group_name": "G01",
+      "group_order": 1,
+      "base_url": "https://campusvirtual-sifods.minedu.gob.pe",
+      "course_id": "3098",
+      "exit_quiz_id": "212970",
+      "quiz_attempt_rule": "best"
     }
   ]
 }
